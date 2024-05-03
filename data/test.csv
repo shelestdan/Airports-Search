@@ -1,0 +1,60 @@
+f91b806e-806f-4717-be82-555a56f7135e|ndfl2_year|Справка о доходах компании в разрезе года
+80e0d395-5ac0-4ac4-9fb2-6431936d178e|clients1|Список клиентов в разрезе регионов
+40e8b16d-adf5-4f46-9d74-17fe92b9df28|employees|Число работников компании в разрезе регионов РФ
+dce48b67-90d8-4cb8-aa6d-2c7b6751a90e|income_report|Отчет о прибыли за текущий год
+e9eaf102-1f05-4c47-af6e-9c31b63b1a67|expenses_report|Отчет о расходах за текущий год
+0c3833af-791e-4f2b-813f-84e8eb48f77a|profit_loss|Отчет о прибылях и убытках
+af9dbec5-4f42-46e6-9c64-d5eeb09aa930|sales_report|Отчет о продажах за текущий год
+bd7f9b14-02c9-4e1b-8752-51b152d4e540|inventory_report|Отчет о состоянии склада
+2f86f499-48c2-4a21-8a9b-454614ae7b23|customer_feedback|Отчет о обратной связи от клиентов
+c6f5c526-7f6d-474f-99c6-192e7bb06d19|employee_feedback|Отчет о обратной связи от сотрудников
+7b05bc58-2f76-46f7-95fb-18fc0d6e8a0e|market_analysis|Отчет анализа рынка
+e7e363c8-989d-42b7-8905-cac13e83ac79|customer_demographics|Отчет о демографической характеристике клиентов
+f04b477e-42e0-4e8f-81e5-1e42d9f94b76|product_sales|Отчет о продажах товаров
+a79d4c16-2e46-44cb-9a78-8aa8c9447d88|employee_performance|Отчет о производительности сотрудников
+a19d1522-c3eb-4b46-b11c-8e8893c5be56|market_trends|Отчет о тенденциях на рынке
+4cb563d7-d2ef-4f44-b4e1-804f27c32f1e|financial_forecast|Отчет о финансовом прогнозе
+6e1fdab3-36c9-4c20-aa63-df204146ee42|customer_satisfaction|Отчет о удовлетворенности клиентов
+c2a5e684-6df2-4d05-848d-229d125961c7|market_research|Отчет маркетингового исследования
+9e2e8e2a-4b16-46c3-9526-8eaa760d0d32|inventory_management|Отчет о управлении запасами
+83c8d0e1-68a7-4935-93b1-6cfb8e52fb80|customer_retention|Отчет о сохранении клиентов
+b9a855a1-d4bb-4b73-9b29-59c239d9e3f1|employee_training|Отчет о тренингах для сотрудников
+d156e880-81a2-4ad8-bf2f-fc792b68e870|market_segmentation|Отчет о сегментации рынка
+2e8dc9e7-9b42-4ab1-a48d-97b392d0d3f2|product_launch|Отчет о запуске нового продукта
+b9bc9757-18f3-4a33-a70a-87ebc08f0523|customer_acquisition|Отчет о привлечении клиентов
+3a3e43d7-44de-4ab5-82f4-3d7ee5f0d34a|marketing_strategy|Отчет о маркетинговой стратегии
+a29eab67-9f90-4cd3-aac1-859d94e8a4b5|sales_projection|Отчет о прогнозе продаж
+e5eb4e62-81d5-4c22-b640-863dbb7b6e7b|product_performance|Отчет о производительности продукта
+1f9bdff2-f5cd-4ab7-bd2a-1f1a1f203f3e|customer_service|Отчет о качестве обслуживания клиентов
+e3b5fc46-ba6e-4211-87d3-693e9b785eac|competitor_analysis|Отчет о анализе конкурентов
+f4f369a2-66c2-4a3d-9f89-d6c07ddcb8b2|product_quality|Отчет о качестве продукции
+b5c1b32c-21e7-4c79-9db7-5c07688389a2|budget_analysis|Отчет о бюджетном анализе
+1a5e6f0d-ff99-4d3f-8833-3f9bba572ad0|tax_return|Налоговая декларация по налогу на прибыль
+2b4c58a9-1b2a-4da9-8a14-9cf6a0657aa2|salary_statement|Отчет о заработной плате сотрудников
+3c8e7b3f-fb3d-4f55-b37b-8d84e1e23c0f|financial_statement|Финансовый отчет о деятельности компании
+4d6e5f7c-3b8a-42e2-9f35-047cbf317a11|quarterly_sales|Квартальный отчет о продажах
+5e7f6d8b-1a3b-4f89-920d-c6fde2e81b39|employee_benefits|Отчет о льготах для сотрудников
+6f8g5h2a-9c6b-4e28-b3ad-6d2fe8c0d1a5|annual_report|Ежегодный отчет о деятельности компании
+7a9b8c6d-2f4e-4b3c-9a1d-5e6f7a8b9c0d|insurance_claims|Отчет о страховых выплатах
+8b2c1d3e-5a6f-4b3d-8c2a-1d3e4f5a6b7c|market_share|Отчет о доле рынка
+9c3d4e5f-6b7a-4c5d-9e3f-2b1a8b3c4d5e|product_catalog|Каталог продукции компании
+0d1e2f3g-7h8i-4j5k-9l6m-3n4o5p6q7r8s|quality_assurance|Отчет о контроле качества продукции
+1e2f3g4h-5i6j-4k5l-8m9n-2o3p4q5r6s|customer_complaints|Отчет о жалобах клиентов
+2f3g4h5i-6j7k-4l5m-7n8o-3p4q5r6s7t|product_returns|Отчет о возвратах продукции
+3g4h5i6j-7k8l-4m5n-6o7p-4q5r6s7t8u|company_assets|Отчет о активах компании
+4h5i6j7k-8l9m-4n5o-7p8q-5r6s7t8u9v|budget_plan|План бюджета компании
+5i6j7k8l-9m0n-4o5p-8q9r-6s7t8u9v0w|marketing_campaign|Отчет о маркетинговой кампании
+6j7k8l9m-0n1o-4p5q-9r0s-7t8u9v0w1x|employee_training_program|Программа обучения сотрудников
+7k8l9m0n-1o2p-4q5r-0s1t-8u9v0w1x2y|customer_experience|Отчет о опыте обслуживания клиентов
+8l9m0n1o-2p3q-4r5s-1t2u-9v0w1x2y3z|social_media_analytics|Аналитика социальных медиа
+9m0n1o2p-3q4r-4s5t-2u3v-0w1x2y3z4a|company_growth|Отчет о росте компании
+0n1o2p3q-4r5s-4t5u-3v4w-1x2y3z4a5b|customer_segmentation|Сегментация клиентов
+1o2p3q4r-5s6t-4u5v-5w6x-2y3z4a5b6c|production_costs|Отчет о затратах на производство
+2p3q4r5s-6t7u-4v5w-6x7y-3z4a5b6c7d|employee_engagement|Отчет о вовлеченности сотрудников
+3q4r5s6t-7u8v-4w5x-7y8z-4a5b6c7d8e|inventory_turnover|Отчет о товарообороте
+4r5s6t7u-8v9w-4x5y-8z9a-5b6c7d8e9f|market_penetration|Отчет о проникновении на рынок
+5s6t7u8v-9w0x-4y5z-9a0b-6c7d8e9f0g|customer_interaction|Отчет о взаимодействии с клиентами
+6t7u8v9w-0x1y-4z5a-0b1c-7d8e9f0g1h|sales_strategy|Отчет о стратегии продаж
+7u8v9w0x-1y2z-4a5b-1c2d-8e9f0g1h2i|financial_analysis|Финансовый анализ компании
+8v9w0x1y-2z3a-4b5c-2d3e-9f0g1h2i3j|competitive_analysis|Конкурентный анализ рынка
+9w0x1y2z-3a4b-4c5d-3e4f-0g1h2i3j4k|market_demand|Отчет о спросе на рынке
